@@ -64,6 +64,7 @@ blockquote{
 
 }
 .pagelink{
+	font-family: "liquidfont";
 	font-style: italic;
 	color:lime;
 	font-size: 20px;
