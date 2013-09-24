@@ -5,7 +5,7 @@ header{
 body{
 	background:white;
 	font-size: 16px;
-	font-family: ".liquidfont",Helvetica, Verdana;
+	font-family: Helvetica, Verdana;
 }
 	
 h1{ 
@@ -64,6 +64,7 @@ blockquote{
 
 }
 .pagelink{
+	font-family: ".liquidfont";
 	font-style: italic;
 	color:lime;
 	font-size: 20px;
