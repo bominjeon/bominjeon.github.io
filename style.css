@@ -5,14 +5,14 @@ header{
 body{
 	background:white;
 	font-size: 16px;
-	font-family: "liquidfont",Helvetica, Verdana;
+	font-family: ".liquidfont",Helvetica, Verdana;
 }
 	
 h1{ 
 	font-size: 20px;
 	color: black;
 }
-h2{font-family: "liquidfont";
+h2{
 	font-size: 35px; 
 	color: lime;
 }
@@ -64,7 +64,6 @@ blockquote{
 
 }
 .pagelink{
-	font-family: "liquidfont";
 	font-style: italic;
 	color:lime;
 	font-size: 20px;
