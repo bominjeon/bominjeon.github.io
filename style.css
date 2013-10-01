@@ -51,6 +51,8 @@ h4{
 p {
 	color=#bbb;
 }
+h5{ font font-style: italic;
+}
 h6{
 	font-size: 1em;
 	font-family: impact;
