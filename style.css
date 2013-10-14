@@ -21,19 +21,15 @@ h2{
 }
 .shape {
 	background:white;
-	height: 1px;
-	width: 1400px;
+	height: 400px;
 	margin: 0 auto;
-	padding-left: 30px;
-	margin-left: 70px;
-	border-left: 10px;
+	padding: 15px;
+	border-left:px;
 }
-
 .Selfie {
     width: 25px;
     height: auto;
-    }
-
+}
 h3 {
 	font-style: italic;
 }
@@ -49,9 +45,11 @@ h4{
 }
 
 p {
-	color=#bbb;
-}
-h5{ font font-style: italic;
+	text-indent: 5px;
+	 }
+h5{ font-style: italic;
+	font-size: 30px
+
 }
 h6{
 	font-size: 1em;
@@ -76,5 +74,12 @@ blockquote{
 .division1{
 	background: white;
 	margin: 5px;
+	text-align: center;
+}
+.ricelytitle{
+	height:300px;
+	padding: 20px
+}
+.between{
 
 }
