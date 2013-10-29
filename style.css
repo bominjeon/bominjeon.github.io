@@ -7,7 +7,6 @@ body{
 	font-size: 16px;
 	font-family: Helvetica, Verdana;
 }
-	
 h1{ 
 	font-size: 35px;
 	color: lime;
@@ -43,12 +42,10 @@ h4{
 	color: black;
 	font-size: 25px;
 }
-
 p {text-indent: 5px;
 	 }
 h5{ font-style: italic;
 	font-size: 30px
-
 }
 h6{ font-size: 1em;
 	font-family: impact;
@@ -59,7 +56,6 @@ blockquote{
 	font-style: italic;
 	font-size:2em;
 	border-left: 3px solid purple;
-
 }
 .pagelink{
 	font-family: "hydrophilia-liquid";
@@ -71,7 +67,7 @@ blockquote{
 }
 .division1{
 	background: white;
-	margin: 5px;
+	margin: 1px;
 	text-align: center;
 }
 .ricelytitle{
@@ -87,6 +83,8 @@ blockquote{
 	;
 }
 .takeout{
-	
 }
-
+.linkbreak{ 
+	background:white;
+	height:2px;
+}
