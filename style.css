@@ -84,7 +84,9 @@ blockquote{
 }
 .linkbreak{ 
 	background:white;
-	height:2px;
+	height:2px;}
 .shoots{
-   height: 500px;}
+	text-align: center;
+	height: 500px;
+}
 }
