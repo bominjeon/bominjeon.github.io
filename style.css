@@ -6,7 +6,7 @@ body{
 	background:white;
 	font-size: 16px;
 	font-family: Helvetica, Verdana;
-}
+	text-align:}
 h1{ 
 	font-size: 35px;
 	color: lime;
@@ -15,8 +15,26 @@ h2{
 	font-size: 30px; 
 	color: black;
 }
-.special-subheading {
-	color:yellow;
+div.thumbnail{
+	text-align: center;
+	background;
+	border:10px; 
+	}
+div.thumbnail img{
+	width: 300px;
+	height: 300px;
+	z-index: 10;
+}
+div.thumbnail a {
+	font-family: Helvetica;
+	font-style: ;
+	color:lime;
+	font-weight: 10;
+	font-size: 20px;
+	background:;
+	text-decoration: none;
+	position:static;
+	z-index: 100;
 }
 .shape {
 	background:white;
@@ -57,14 +75,7 @@ blockquote{
 	font-size:2em;
 	border-left: 3px solid purple;
 }
-.pagelink{
-	font-family: "hydrophilia-liquid";
-	font-style: italic;
-	color:lime;
-	font-size: 20px;
-	background:black;
-	width: 10px;
-}
+
 .division1{
 	background: white;
 	margin: 1px;
