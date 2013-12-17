@@ -99,6 +99,10 @@ blockquote{
 	height:2px;}
 .shoots{
 	text-align: center;
+	height: 100px;
+}
+.spreads{
+	text-align: center;
 	height: 500px;
 }
 }
